@@ -1,18 +1,8 @@
-F5 Agility Labs Getting Started Doc
-===================================
+Welcome to the SEO lab for F5XC
+=======================
 
-Welcome to the |classbold| for F5 Agility |year|
+This lab (originally authored for F5 Agility 2022) is an adaptation of “(Class-1_) - Intro to NGINX Plus” and has been modified by Chris Adrian and Bret Packard for use during SE Onboarding.
 
-.. attention::
-   The Agility team is using this repo to document our "read-the-docs" process.
-
-|repoinfo|
-
-.. note::
-   Each Agility lab is typically broken down by "Class" --> "Module" --> "Lab".
-   Each section uses "toctree" to create the index and reference the content.
-   Using this template should give the contributer several getting-started
-   RST examples.
 
 .. toctree::
    :maxdepth: 3
@@ -20,5 +10,5 @@ Welcome to the |classbold| for F5 Agility |year|
    :glob:
 
    class*/class*
-   archive*/archive*
-   2hour*/2hour*
+
+.. _Class-1: https://clouddocs.f5.com/training/community/f5xc/html/archive/class1/class1.html
