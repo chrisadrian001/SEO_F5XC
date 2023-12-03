@@ -111,7 +111,7 @@ After following the invitation email's to **Update Password**, proceed to the fi
 |                                                                                              |
 |     the **<adjective-animal>** namespace that you have been assigned. It will be located in  |
 |                                                                                              |
-|     the portion of the URI path between */namespaces/* and */sites/* as shown in this        |
+|     the portion of the URI path between */namespaces/* and */manage/* as shown in this       |
 |                                                                                              |
 |     example **…/namespaces/<namespace>/sites/…**. Note the namespace as it will be used      |
 |                                                                                              |
